@@ -45,6 +45,8 @@ python app.py
 
 API Endpoint: localhost http://127.0.0.1:5000/predict
 
+sample image to test : https://drive.google.com/file/d/1XE4m0ik7K62punrn-hg1xw7UDHa16ddX/view?usp=drive_link
+
 # Screenshots (Add at least 3)
 ![Screenshot1](assets/Screenshot1.png)
 Screenshot1
