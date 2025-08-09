@@ -37,54 +37,25 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+[commands] 
 
 # Run
 [commands]
 
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](assets/Screenshot1.png)
+Screenshot1
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Input](assets/Input.png)
+Input
 
-!Screenshot3
-*Add caption explaining what this shows*
+![Screenshot2](assets/Screenshot2.png)
+Screenshot2
 
-# Diagrams
-!Workflow
-*Add caption explaining your workflow*
+[!Screenshot3](assets/Screenshot3.png)
+Output
 
-For Hardware:
-
-# Schematic & Circuit
-!Circuit
-*Add caption explaining connections*
-
-!Schematic
-*Add caption explaining the schematic*
-
-# Build Photos
-!Components
-*List out all components shown*
-
-!Build
-*Explain the build steps*
-
-!Final
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
