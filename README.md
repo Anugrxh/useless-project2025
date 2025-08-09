@@ -55,7 +55,7 @@ Input
 ![Screenshot2](assets/Screenshot2.png)
 Screenshot2
 
-[!Screenshot3](assets/Screenshot3.png)
+![Screenshot3](assets/Screenshot3.png)
 Output
 
 
