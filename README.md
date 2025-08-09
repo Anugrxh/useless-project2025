@@ -47,6 +47,8 @@ API Endpoint: localhost http://127.0.0.1:5000/predict
 
 sample image to test : https://drive.google.com/file/d/1XE4m0ik7K62punrn-hg1xw7UDHa16ddX/view?usp=drive_link
 
+Deployment of the backend model requires higher memory resources than those available on free hosting plans. Due to these limitations, the model could not be deployed on the current free-tier environment. 
+
 # Screenshots (Add at least 3)
 ![Screenshot1](assets/Screenshot1.png)
 Screenshot1
@@ -62,7 +64,7 @@ Output
 
 
 ## Team Contributions
-- Anugrah: Frontend and API Development
+- Anugrah: Frontend and Flask API Development
 - Adith: Model Development using YOLO in Google Collab
 
 ---
